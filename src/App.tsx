@@ -35,7 +35,7 @@ const App = () => {
             </h1>
             <p className="-mt-2 font-poppins text-neutral-500 tracking-wide">
               Every project is a full Postgres database, the world's most
-              trusted relational database.
+              trusted relational database. this is test for
             </p>
           </div>
           <div className="flex flex-col font-poppins text-neutral-200 tracking-wide">
